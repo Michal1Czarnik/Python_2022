@@ -1,0 +1,14 @@
+<?xml version="1.0" ?><product>
+    <item id="1">
+        <name isTasty="yes">apple</name>
+        <price>2.12 PLN</price>
+    </item>
+    <item id="2">
+        <name>orange</name>
+        <price>3.52 PLN</price>
+    </item>
+    <item id="3">
+        <name>pear</name>
+        <price>7.99 PLN</price>
+    </item>
+</product>
